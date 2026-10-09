@@ -44,6 +44,5 @@
 
 <br clear="both">
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/Naitik-Panwar/Naitik-Panwar/snake-output/snake.svg" alt="Snake animation" />
-
+![GitHub Snake Animation](https://raw.githubusercontent.com/Naitik-Panwar/Naitik-Panwar/output/github-snake.svg)
 ###
